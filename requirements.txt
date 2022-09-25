@@ -1,0 +1,9 @@
+altair==4.2.0
+earthengine_api==0.1.321
+ee==0.2
+folium==0.12.1.post1
+geemap==0.16.7
+numpy==1.23.2
+pandas==1.4.4
+plotly==5.10.0
+streamlit==1.12.0
